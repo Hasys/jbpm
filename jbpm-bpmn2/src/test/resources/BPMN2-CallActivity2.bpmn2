@@ -23,7 +23,7 @@
 
     <!-- nodes -->
     <startEvent id="_1" name="StartProcess"  isInterrupting="true"/>
-    <callActivity id="_2" name="CallActivity" calledElement="SubProcess" >
+    <callActivity id="_2" name="CallActivity" calledElement="SubProcess ~`!@#$%^*()_+=-{}][:|\';>?/., &lt;&amp;&quot;" >
       <ioSpecification>
         <dataInput id="_2_subXInput" name="subX" />
         <dataOutput id="_2_subYOutput" name="subY" />
